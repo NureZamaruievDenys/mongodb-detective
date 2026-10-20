@@ -1,12 +1,10 @@
 package com.project.mongodb_detective.models.enums;
 
 public enum RelationType {
-    SPOUSE,
-    PARENT,
-    CHILD,
-    SIBLING,
+    WIFE,
+    HUSBAND,
     FRIEND,
     COLLEAGUE,
-    BOSS,
-    NEIGHBOR
+    NEIGHBOR,
+    BOSS
 }
